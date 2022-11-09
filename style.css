@@ -1,0 +1,24 @@
+span{
+    color: brown;
+}
+
+h1{
+    color: blue;
+}
+
+
+h3{
+color: red;
+}
+
+
+canvas{
+    margin-top: 30px;
+    border-width: 50px;
+    border-style:ridge ;
+    background-color:aliceblue;
+}
+body{
+    text-align: center;
+    background-color: beige;
+}
